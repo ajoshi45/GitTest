@@ -6,6 +6,7 @@ public class GitHubTestClass {
 		// TODO Auto-generated method stub
 System.out.println("Test class created");
 System.out.println("New Change122232");
+System.out.println("fetch change");
 	}
 
 }
